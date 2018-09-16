@@ -1,4 +1,5 @@
 bin
 obj
+backup
 .vscode
 project.lock.*
